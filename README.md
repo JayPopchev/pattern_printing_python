@@ -2,25 +2,15 @@
 This Python program provides an interactive console-based tool for printing various patterns, such as triangles, diamonds, and squares, using characters. Users can choose from a menu of nine different pattern types and specify the height or size as input.
 # Features
 Multiple pattern options:
-
-Right-angled Triangle
-
-Square with a Hollow Center
-
-Diamond with a Hollow Center
-
-Solid Diamond
-
-Left-angled Triangle
-
-Pyramid
-
-Right-angled Triangle with Numbers
-
-Inverted Pyramid
-
-Alternating Star-Dash Square
-
+Right-angled Triangle 🔺
+Square with a Hollow Center ⬜️
+Diamond with a Hollow Center 🔶
+Solid Diamond 💎
+Left-angled Triangle 🔻
+Pyramid 🔺 
+Right-angled Triangle with Numbers 🔢
+Inverted Pyramid 🔻
+Alternating Star-Dash Square ⭐️➡️⬜️
 Input validation: For patterns requiring an odd-numbered height, the program prompts the user until a valid input is provided.
 # How to Use
 Run the script in a Python environment.
